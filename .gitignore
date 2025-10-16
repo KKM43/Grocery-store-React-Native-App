@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Expo build output
+.expo/
+.expo-shared/
+
+# EAS build output
+build/
+dist/
+*.tar.gz
+
+# Android/iOS native builds (if you used prebuild)
+android/
+ios/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-error.log
+
+# Credentials or keystore (do not upload!)
+*.keystore
+*.jks
+credentials.json
